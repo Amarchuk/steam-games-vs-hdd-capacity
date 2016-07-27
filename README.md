@@ -1,6 +1,6 @@
 # Steam games sizes vs HDD capacity comparison
 
-Link to full research: [notebook on Nbviewer](https://nbviewer.jupyter.org/github/Amarchuk/steam-games-vs-hdd-capacity/blob/master/steam_games_size_vs_hdd_capacity.ipynb)
+Link to full research (in Russian): [notebook on Nbviewer](https://nbviewer.jupyter.org/github/Amarchuk/steam-games-vs-hdd-capacity/blob/master/steam_games_size_vs_hdd_capacity.ipynb)
 
 **TL;DR** 1) Found artifacts: 
 * http://store.steampowered.com/app/273620 - 2490 GB (really big game)

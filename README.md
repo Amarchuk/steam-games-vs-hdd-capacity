@@ -6,7 +6,7 @@ Link to full research (in Russian): [notebook on Nbviewer](https://nbviewer.jupy
 * http://store.steampowered.com/app/273620 - 2490 GB (really big game)
 * http://store.steampowered.com/app/300790 - 500 GB
 * http://store.steampowered.com/app/439730 - 250 GB
-* http://store.steampowered.com/app/291860 - release 'Before the Apocalypse' (O - Optimism)
+* http://store.steampowered.com/app/291860 - Release Date: Before the Apocalypse (O - Optimism)
 * http://store.steampowered.com/app/355680 - Release Date: When The World Ends (P - Pessimism)
 * http://store.steampowered.com/app/457140 - Release Date: When it's ready! (R - Reaslism)
 * http://store.steampowered.com/app/503430 - Available: em breve ('soon' in portuguese)
